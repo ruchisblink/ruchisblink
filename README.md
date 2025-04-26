@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey there 👋 I'm Ruchitha Nevas!
 
-<!--
-**ruchisblink/ruchisblink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Engineering student | 🌟 Creator of MindGrid | 🤖 ML Enthusiast | 🛠️ Web Dev Explorer | Data Science Fanatic
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 About Me:
+
+- 📚 3rd Year Engineering student with a passion for solving real-world problems.
+- 🧠 I build productivity platforms (like MindGrid) and predictive ML models (like House Price Prediction).
+- 🎯 I believe in simple, meaningful, and user-friendly tech.
+- 💻 Currently levelling up my skills in AI, Data Science, and Full-Stack Development.
+
+---
+
+🔧 My Tech Arsenal:
+
+- Languages: Python 🐍 | Java ☕ | HTML/CSS/JavaScript 🎨
+- Frameworks: Flask | Bootstrap
+- Tools: Power BI 📊 | GitHub 🚀 | MySQL 🗄️| Tableau
+- Special love for: Machine Learning 🤖 and Creative UI/UX Design 🎨
+
+---
+
+---
+
+📈 What I'm Focusing on:
+
+- Making smarter AI models 🤖
+- Creating impactful digital experiences 🌍
+- Constantly learning, building, and evolving 🚀
+
+---
+
+🌐 Let's Connect:
+
+- 📧 ruchithanevaspasupula\@gmail.com
+- 🔗 [https://www.linkedin.com/in/ruchithanevaspasupula/](https://www.linkedin.com/in/ruchithanevaspasupula/)
+
+---
+
+*"Building things that matter. Learning things that spark. Growing beyond limits."* 🚀
